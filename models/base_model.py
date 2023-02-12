@@ -56,3 +56,4 @@ class BaseModel:
         dict_copy = self.__dict__.copy()
         dict_copy.update(rep)
         return dict_copy
+

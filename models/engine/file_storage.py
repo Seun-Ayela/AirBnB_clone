@@ -50,3 +50,4 @@ class FileStorage:
                     self.new(eval(attr_cls_name)(**value))
         except:
             pass
+
